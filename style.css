@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: sans-serif;
+}
+
+code {
+  margin: 10px;
+  max-height: 45vh;
+  display: block;
+  overflow: auto;
+
+  border: 1px solid black;
+  white-space: pre;
+}
+
+.window {
+  max-height: 50vh;
+  overflow: auto;
+
+  border: 1px solid black;
+}
